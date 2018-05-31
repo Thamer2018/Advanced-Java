@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="DragNdDrop"/>
 	<classpathentry kind="src" path="EDT-Event Dispatch Thread"/>
 	<classpathentry kind="src" path="JavaFx"/>
+	<classpathentry kind="src" path="Test"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
